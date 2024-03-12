@@ -1,0 +1,162 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "Apple Watch Series 6",
+      "color": "Space Gray",
+      "price": 399.99,
+      "features": ["GPS", "Always-On Retina display", "ECG app", "Fitness tracking"]
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy Watch 4",
+      "color": "Phantom Black",
+      "price": 299.99,
+      "features": ["Wear OS powered by Samsung", "Health monitoring", "LTE connectivity"]
+    },
+    {
+      "id": 3,
+      "brand": "Fitbit",
+      "model": "Fitbit Versa 3",
+      "color": "Midnight Blue",
+      "price": 229.95,
+      "features": ["Built-in GPS", "Heart rate tracking", "Voice assistant"]
+    },
+    {
+      "id": 4,
+      "brand": "Garmin",
+      "model": "Garmin Forerunner 945",
+      "color": "Black",
+      "price": 599.99,
+      "features": ["Advanced running dynamics", "Pulse Ox sensor", "Music storage"]
+    },
+    {
+      "id": 5,
+      "brand": "Huawei",
+      "model": "Huawei Watch GT 2 Pro",
+      "color": "Night Black",
+      "price": 299.99,
+      "features": ["14-day battery life", "Sapphire glass", "TruSeen 4.0 heart rate monitoring"]
+    },
+    {
+      "id": 6,
+      "brand": "Amazfit",
+      "model": "Amazfit GTR 3",
+      "color": "Steel Blue",
+      "price": 199.99,
+      "features": ["AMOLED display", "Zepp OS", "Blood oxygen saturation measurement"]
+    },
+    {
+      "id": 7,
+      "brand": "TicWatch",
+      "model": "TicWatch Pro 3 Ultra",
+      "color": "Shadow Black",
+      "price": 299.99,
+      "features": ["Dual-layer display", "Snapdragon Wear 4100", "30-day battery life (essential mode)"]
+    },
+    {
+      "id": 8,
+      "brand": "Fossil",
+      "model": "Fossil Gen 6",
+      "color": "Smoke Stainless Steel",
+      "price": 299.99,
+      "features": ["Wear OS by Google", "Fitness tracking", "Customizable dials"]
+    },
+    {
+      "id": 9,
+      "brand": "Xiaomi",
+      "model": "Xiaomi Mi Watch",
+      "color": "Obsidian Black",
+      "price": 169.99,
+      "features": ["Built-in GPS", "24/7 heart rate monitoring", "NFC for payments"]
+    },
+    {
+      "id": 10,
+      "brand": "OnePlus",
+      "model": "OnePlus Watch",
+      "color": "Midnight Black",
+      "price": 159.99,
+      "features": ["Warp Charge", "Health monitoring", "1.39-inch AMOLED display"]
+    },
+    {
+      "id": 11,
+      "brand": "Polar",
+      "model": "Polar Vantage V2",
+      "color": "Black",
+      "price": 499.99,
+      "features": ["Training Load Pro", "Recovery Pro", "Polar Precision Prime sensor fusion technology"]
+    },
+    {
+      "id": 12,
+      "brand": "Garmin",
+      "model": "Garmin Fenix 6 Pro",
+      "color": "Slate Gray",
+      "price": 699.99,
+      "features": ["Multi-GNSS support", "Sapphire glass", "Advanced training metrics"]
+    },
+    {
+      "id": 13,
+      "brand": "Apple",
+      "model": "Apple Watch SE",
+      "color": "Gold Aluminum",
+      "price": 279.99,
+      "features": ["Retina OLED display", "Water resistant", "Fitness tracking"]
+    },
+    {
+      "id": 14,
+      "brand": "Samsung",
+      "model": "Samsung Galaxy Watch Active 2",
+      "color": "Cloud Silver",
+      "price": 249.99,
+      "features": ["ECG monitoring", "Sleep tracking", "Bluetooth connectivity"]
+    },
+    {
+      "id": 15,
+      "brand": "Fitbit",
+      "model": "Fitbit Sense",
+      "color": "Lunar White",
+      "price": 299.95,
+      "features": ["EDA sensor", "Skin temperature sensor", "Fitbit Pay"]
+    },
+    {
+      "id": 16,
+      "brand": "Huawei",
+      "model": "Huawei Watch Fit",
+      "color": "Mint Green",
+      "price": 129.99,
+      "features": ["1.64-inch AMOLED display", "96 workout modes", "Automatic workout detection"]
+    },
+    {
+      "id": 17,
+      "brand": "Amazfit",
+      "model": "Amazfit Bip U Pro",
+      "color": "Black",
+      "price": 69.99,
+      "features": ["SpO2 measurement", "Built-in GPS", "60+ sports modes"]
+    },
+    {
+      "id": 18,
+      "brand": "TicWatch",
+      "model": "TicWatch E3",
+      "color": "Panther Black",
+      "price": 199.99,
+      "features": ["Qualcomm Snapdragon Wear 4100", "Built-in GPS", "24-hour heart rate monitoring"]
+    },
+    {
+      "id": 19,
+      "brand": "Fossil",
+      "model": "Fossil Hybrid HR",
+      "color": "Black Silicone",
+      "price": 195.00,
+      "features": ["E Ink display", "Heart rate tracking", "Sleep tracking"]
+    },
+    {
+      "id": 20,
+      "brand": "Xiaomi",
+      "model": "Xiaomi Mi Watch Lite",
+      "color": "Ivory",
+      "price": 69.99,
+      "features": ["1.4-inch TFT display", "5 ATM water resistance", "14-day battery life"]
+    }
+  ]

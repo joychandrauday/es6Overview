@@ -1,0 +1,11 @@
+.singleBottle{
+    padding: 24px;
+    border-radius: 8px;
+    background-color: brown;
+    margin: 10px;
+    color: white;
+}
+.singleBottle img{
+    width: 100%;
+    border-radius: 8px;
+}
